@@ -1,4 +1,4 @@
 # myprojects
-starting of my coding journey.
+THIS IS FIRST MINI PROJECTS ON ATM TRANSACTION SIMULATION
 <br>
-Auther -  Ronit Gupta 
+Auther -  RONIT GUPTA
